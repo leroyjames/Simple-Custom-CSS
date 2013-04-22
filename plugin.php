@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Custom CSS
 Description: Allows user to customize the CSS of their site, thru the admin dashboard, without affecting the parent theme's CSS.
-Author: Leroy Rosales LAITS
+Author: Leroy James LAITS
 Author URI: wikis.la.utexas.edu/sta/blogs/ljames
 
 Version: 1.0
